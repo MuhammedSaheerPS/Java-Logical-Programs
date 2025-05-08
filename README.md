@@ -1,2 +1,3 @@
 # Java-Logical-Programs
-I have done a plenty of logical programs  
+I have practiced each and every logical programs.
+
